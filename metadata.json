@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PRO-MENUISERIE PVC | Chiffrage \u0026 Devis",
+  "description": "Logiciel professionnel de chiffrage, calcul technique, débit et génération de devis pour menuiserie PVC (VEKA, MEKSA, Roto).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
